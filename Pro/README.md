@@ -1,6 +1,6 @@
 # SlimmeLezer-Pro
 SlimmeLezer Pro with ESP32-C3 and W5500 Ethernet
-![SlimmeLezer Pro](/img/SlimmeLezer-Pro.png)
+![SlimmeLezer Pro](./img/SlimmeLezer-Pro.png)
 
 ## The new successor for the SlimmeLezer
 A powerfull small compact redesign with allmost the same measurements: 26,25 x 61,75 mm 
