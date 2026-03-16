@@ -18,10 +18,6 @@ uart:
       inverted: true
     baud_rate: 115200
     rx_buffer_size: 1700
-  - id: p1_bridge_uart
-    tx_pin:
-      number: 21
-    baud_rate: 115200
 ```
 Button (for flashing and factory reset)
 ```YAML
