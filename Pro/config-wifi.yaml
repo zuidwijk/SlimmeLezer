@@ -71,7 +71,7 @@ ota:
   - platform: web_server
 
 dashboard_import:
-  package_import_url: github://zuidwijk/slimmelezer-pro/slimmelezer-pro-wifi.yaml
+  package_import_url: github://zuidwijk/slimmelezer/pro/config-wifi.yaml
 
 web_server:
   port: 80
