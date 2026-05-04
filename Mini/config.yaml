@@ -56,12 +56,22 @@ api:
             id: reboot
 ota:
   - platform: esphome
+    id: ota_esphome
   - platform: web_server
+    id: ota_web_server
+  - platform: http_request
+    id: ota_http_request
 
+update:
+  - platform: http_request
+    id: update_http_request
+    name: Firmware
+    source: https://suport.zuidwijk.com/bin/slimmelezer-mini-latest.json
+
+http_request:
 
 dashboard_import:
-  package_import_url: github://zuidwijk/slimmelezer/mini/config.yaml
-  
+  package_import_url: github://zuidwijk/slimmelezer/mini/config.yaml  
 
 web_server:
   port: 80
