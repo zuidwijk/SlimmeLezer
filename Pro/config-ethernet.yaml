@@ -79,7 +79,7 @@ update:
   - platform: http_request
     id: update_http_request
     name: Firmware
-    source: https://suport.zuidwijk.com/bin/slimmelezer-pro-ethernet-latest.json
+    source: https://support.zuidwijk.com/bin/slimmelezer-pro-ethernet-latest.json
 
 http_request:
 
