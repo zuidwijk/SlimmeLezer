@@ -1,6 +1,6 @@
 # SlimmeLezer
 ## Current (default)
-[<img src="/Default/img/SlimmeLezer.png">](/Default/)
+[<img src="/Classic/img/SlimmeLezer.png">](/Default/)
 28x61mm / esp8266 (esp12f)
 ## Pro
 [<img src="/Pro/img/SlimmeLezer-Pro.png">](/Pro/)
