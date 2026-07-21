@@ -67,7 +67,7 @@ ota:
   - platform: web_server
 
 dashboard_import:
-  package_import_url: github://zuidwijk/dsmr/slimmelezer.yaml@main
+  package_import_url: github://zuidwijk/SlimmeLezer/Classic/config.yaml@main
   import_full_config: true
 
 web_server:
